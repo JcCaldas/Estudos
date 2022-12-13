@@ -97,3 +97,13 @@ button:hover {
     background-color: darkgreen;
     cursor: pointer;
 }
+
+@media (max-width: 375px) {
+
+    .containerPrincipal {
+        flex-direction: column;
+    }
+
+
+    
+}
